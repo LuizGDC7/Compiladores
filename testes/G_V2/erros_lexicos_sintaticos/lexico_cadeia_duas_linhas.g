@@ -1,0 +1,4 @@
+principal {
+    escreva "abc
+def";
+}

@@ -1,0 +1,15 @@
+Corretos/Corretos/fatorialCorreto.txt|OK
+Corretos/Corretos/somaVetores.txt|OK
+Corretos/Corretos/somaVetoresV2.txt|OK
+Corretos/Corretos/selectionSort.txt|ERRO: TIPO DE ARGUMENTO INCOMPATIVEL NA CHAMADA 40
+Corretos/Corretos/selectionSortV2.txt|ERRO: TIPO DE ARGUMENTO INCOMPATIVEL NA CHAMADA 44
+Corretos/Corretos/selectionSortV3.txt|ERRO: VARIAVEL NAO DECLARADA 12
+Corretos/Corretos/somatorioVetor.txt|ERRO: VARIAVEL NAO DECLARADA 10
+Corretos/Corretos/somatorioVetorV2.txt|ERRO: VARIAVEL NAO DECLARADA 12
+ErrosSemanticos/ErrosSemanticos/fatorial-ChamadaComMaisParametrosLin32.txt|ERRO: NUMERO DE ARGUMENTOS INCORRETO NA CHAMADA 32
+ErrosSemanticos/ErrosSemanticos/fatorial-variávelComMesmoNomeEescopoDeParametroLin9.txt|ERRO: VARIAVEL COM MESMO NOME DE PARAMETRO NO MESMO ESCOPO 9
+ErrosSemanticos/ErrosSemanticos/selectionSortPassagemDeIntParaArgumentoVetLin40.txt|ERRO: INDEXACAO DE VARIAVEL QUE NAO E VETOR 37
+ErrosSemanticos/ErrosSemanticos/selectionSortPassagemDeVetorComtipodiferenteDoArgumentoLin40.txt|ERRO: TIPO DE ARGUMENTO INCOMPATIVEL NA CHAMADA 40
+ErrosSemanticos/ErrosSemanticos/somatorioVetorLin12ErroSomaVetorCompletocomVariavelNaoVetor.txt|ERRO: VARIAVEL NAO DECLARADA 9
+ErrosSemanticos/ErrosSemanticos/somatorioVetorLin14ErroSomaVetorSemIndices.txt|ERRO: VARIAVEL NAO DECLARADA 11
+ErrosSemanticos/ErrosSemanticos/somatorioVetorLin8VarSomaNãoDeclaradaNoescopo.txt|ERRO: VARIAVEL NAO DECLARADA 7

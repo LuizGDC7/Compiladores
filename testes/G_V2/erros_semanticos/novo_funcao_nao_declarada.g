@@ -1,0 +1,3 @@
+principal {
+    g(1);
+}
